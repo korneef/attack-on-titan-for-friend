@@ -1,8 +1,7 @@
 {
   "name": "attack-on-titan-for-friend",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "0.1.0",
   "homepage": "https://korneef.github.io/attack-on-titan-for-friend/",
   "scripts": {
     "dev": "vite",
