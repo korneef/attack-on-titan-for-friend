@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@leenguyen/react-flip-clock-countdown": "^1.5.0",
     "@rumess/react-flip-countdown": "^1.2.6",
+    "classnames": "^2.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
