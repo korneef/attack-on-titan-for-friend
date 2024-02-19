@@ -46,7 +46,7 @@ function App() {
       <img className={cn(`image-container`, {['bg']: imageNumber === 6})} src={image6}/>
 
       <div className={'time-wrapper'}>
-        <div className='timer-description'>До начала просмотра "Атаки&nbsp;титанов" Адреем&nbsp;и&nbsp;Дашей</div>
+        <div className='timer-description'>До начала просмотра "Атаки&nbsp;титанов" Андреем&nbsp;и&nbsp;Дашей</div>
         <FlipCountdown
           size={windowWidth > 560 ? 'medium' : 'small'}
           titlePosition='bottom'
